@@ -1,7 +1,7 @@
 ## Pug Man Radio
 
-![](spotify:playlist:51HpUEo1ByHBwQY8FdX9aC?utm_source=generator&theme=0)
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)]([https://open.spotify.com/collection/tracks](https://open.spotify.com/playlist/51HpUEo1ByHBwQY8FdX9aC))
 
 ## AC/DC
 
-![](spotify:playlist:2kgpt5duszQLvPDVBtEAlE?utm_source=generator&theme=0)
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)]([https://open.spotify.com/collection/tracks](https://open.spotify.com/playlist/2kgpt5duszQLvPDVBtEAlE))
